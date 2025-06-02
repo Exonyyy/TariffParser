@@ -68,10 +68,10 @@ tariff_parser/
 ├── app/
 │   ├── main.py            # Точка входа
 │   ├── parser.py          # Парсинг через Selenium
-│   ├── config.py          # Конфигурация
 │   ├── utilities.py       # Преобразование + Excel запись
 ├── poetry.lock
 ├── pyproject.toml
+├── config.py          # Конфигурация
 └── tariffs.xlsx           # Результат
 ```
 
